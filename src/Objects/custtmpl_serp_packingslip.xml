@@ -1,0 +1,9 @@
+<advancedpdftemplate scriptid="custtmpl_serp_packingslip" standard="STDTMPLPACKINGSLIP">
+  <description></description>
+  <displaysourcecode>T</displaysourcecode>
+  <isinactive>F</isinactive>
+  <preferred>T</preferred>
+  <printtype>PACKINGSLIP</printtype>
+  <title>SERP Packing Slip (3 X 5) PDF/HTML Template</title>
+  <trantype>CUSTINVC</trantype>
+</advancedpdftemplate>
