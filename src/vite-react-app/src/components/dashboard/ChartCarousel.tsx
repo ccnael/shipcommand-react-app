@@ -10,8 +10,8 @@ import {
 // import CycleTimeChart from "./CycleTimeChart";
 import BlockHeatmapChart from "./BlockHeatmapChart";
 import ShippingMethodDistributionChart from "./ShippingMethodDistributionChart";
-// import D3HeatmapChart from "./D3HeatmapChart";
-// import D3LineGraph from "./D3LineGraph";
+import D3HeatmapChart from "./D3HeatmapChart";
+import D3LineGraph from "./D3LineGraph";
 // import RechartsLineGraph from "./RechartsLineGraph";
 // import PlaceholderChart from "./PlaceholderChart";
 import OrderFulfillmentCycleChart from "./OrderFulfillmentCycleChart";
@@ -189,7 +189,7 @@ const ChartCarousel: React.FC<ChartCarouselProps> = ({
               />
             </div>
           </CarouselItem> */}
-          {/* <CarouselItem className="transition-opacity duration-300">
+          <CarouselItem className="transition-opacity duration-300">
             <div className="h-[600px]">
               <D3HeatmapChart data={heatmapData} isLoading={isLoading} dateRange={dateRange} />
             </div>
@@ -203,7 +203,7 @@ const ChartCarousel: React.FC<ChartCarouselProps> = ({
                 title="D3 Sample Line Graph" 
               />
             </div>
-          </CarouselItem> */}
+          </CarouselItem>
           {/* <CarouselItem className="transition-opacity duration-300">
             <div className="h-[600px]">
               <PlaceholderChart isLoading={isLoading} />
