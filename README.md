@@ -1,4 +1,4 @@
-# ShipCommand
+# ShipCommand SuiteApp
 A comprehensive order fulfillment and shipping management application
 
 ### Step 1: Clone the repository using the project's Git URL

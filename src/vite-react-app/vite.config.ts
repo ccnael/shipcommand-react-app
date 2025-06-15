@@ -16,7 +16,7 @@ export default defineConfig(({ mode }) => ({
     componentTagger(),
   ].filter(Boolean),
   build: {
-    outDir: '../FileCabinet/SuiteScripts/shipcommand/bundle/',
+    outDir: '../FileCabinet/SuiteApps/com.ccnael.shipcommand/bundle/',
     assetsDir: 'assets',
     rollupOptions: {
       output: {

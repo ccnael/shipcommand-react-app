@@ -1,4 +1,7 @@
-<manifest projecttype="ACCOUNTCUSTOMIZATION">
-  <projectname>shipcommand</projectname>
+<manifest projecttype="SUITEAPP">
+  <publisherid>com.ccnael</publisherid>
+  <projectid>shipcommand</projectid>
+  <projectname>shipcommand-react-app</projectname>
+  <projectversion>1.0.0</projectversion>
   <frameworkversion>1.0</frameworkversion>
 </manifest>
