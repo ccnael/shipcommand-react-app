@@ -27,5 +27,5 @@ npm run dev
 - Tailwind CSS
 
 ### UI
-![ShipCommand Dashboard](./src/FileCabinet/SuiteApps/com.ccnael.shipcommand/bundle.assets/shipcommand-charts.png)
-![ShipCommand Main](./src/FileCabinet/SuiteApps/com.ccnael.shipcommand/bundle.assets/shipcommand-main.png)
+![ShipCommand Dashboard](./src/FileCabinet/SuiteApps/com.ccnael.shipcommand/bundle/assets/shipcommand-charts.png)
+![ShipCommand Main](./src/FileCabinet/SuiteApps/com.ccnael.shipcommand/bundle/assets/shipcommand-main.png)
