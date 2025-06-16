@@ -1,6 +1,8 @@
 # ShipCommand SuiteApp
 A comprehensive order fulfillment and shipping management application
 
+Comes with interactive charts and performance insights on order volume, carrier usage, shipping costs, delivery times, and more
+
 ### Step 1: Clone the repository using the project's Git URL
 git clone https://github.com/ccnael/shipcommand-react-app.git
 
@@ -23,3 +25,7 @@ npm run dev
 - React
 - shadcn-ui
 - Tailwind CSS
+
+### UI
+![ShipCommand Dashboard](./src/FileCabinet/SuiteApps/com.ccnael.shipcommand/bundle.assets/shipcommand-charts.png)
+![ShipCommand Main](./src/FileCabinet/SuiteApps/com.ccnael.shipcommand/bundle.assets/shipcommand-main.png)
